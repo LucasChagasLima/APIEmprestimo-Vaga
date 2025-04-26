@@ -1,0 +1,6 @@
+{
+  "valor_emprestimo": 5000,
+  "instituicoes": ["BMG", "PAN"],
+  "convenios": ["INSS"],
+  "parcela": null
+}
